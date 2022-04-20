@@ -1,6 +1,6 @@
 ko:
     plugin_spent_time_in_issue:
-        timeEntries: Time Entries
+        timeEntries: 작업시간
         spentOn: Spent on
         max_display: Time Entries Maximum Display
         time_format: Time Format
